@@ -1,1 +1,1 @@
-# gurtejmann.com-resume-
+# gurtejmann.com-resume
