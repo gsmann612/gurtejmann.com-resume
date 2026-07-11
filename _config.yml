@@ -129,24 +129,16 @@ content:
   - title: Education
     layout: list
     content:
-     #- layout: left
-     -  title: Swinburne University of Technology
-        sub_title: Bachelor of Commerce
-        caption: 2009 - 2012
+    - title: Swinburne University of Technology
+      sub_title: Bachelor of Commerce
+      caption: 2009 - 2012
 
   - title: Certifications | Professional Development
     layout: list
     content:
     - title: AWS Certified SysOps Administrator – Associate
-      description: AWS cloud operations, monitoring, security, and infrastructure management
     - title: ITIL Foundation – IT Service Management
-      description: IT service management, incident management, change management, and SLA practices
     - title: CompTIA Network+
-      description: TCP/IP, DNS, routing, switching, and network troubleshooting
-         # quote: >
-         #  Short institution or course description (optional)
-         # description: | # this will include new lines to allow paragraphs
-          # Description of qualification
 
   - title: Technical Skills
     layout: list
