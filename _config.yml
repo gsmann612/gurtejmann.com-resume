@@ -52,7 +52,6 @@ about_profile_image: images/profile.jpg # Path to your profile image (eg. images
 about_content: |
   Cloud Infrastructure Engineer with 4+ years of experience designing, implementing, and supporting cloud infrastructure in AWS environments. Experienced in Infrastructure as Code using Terraform and CloudFormation, container platforms including Kubernetes (EKS) and Docker, CI/CD automation, Linux administration, and cloud networking. Proven ability to build scalable, secure, and highly available infrastructure while improving operational efficiency through automation, monitoring, and performance optimization.
 
-
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -75,7 +74,6 @@ content:
            Automated routine infrastructure operations with scripting.
          description: |
            Developed Python and Bash automation scripts for system patching, backup operations, and log management. Reduced manual administrative effort and improved consistency across infrastructure maintenance tasks.
-
 
   - title: Experience
     layout: list
@@ -128,32 +126,27 @@ content:
           - Supported and optimized CI/CD pipelines using Jenkins and GitLab for application deployments. 
           - Implemented infrastructure automation and deployment workflows using Terraform, Jenkins, and Git-based version control.
 
-
   - title: Education
     layout: list
     content:
      #- layout: left
-        title: Swinburne University of Technology
+     -  title: Swinburne University of Technology
         sub_title: Bachelor of Commerce
         caption: 2009 - 2012
-
 
   - title: Certifications | Professional Development
     layout: list
     content:
     - title: AWS Certified SysOps Administrator – Associate
       description: AWS cloud operations, monitoring, security, and infrastructure management
-
     - title: ITIL Foundation – IT Service Management
       description: IT service management, incident management, change management, and SLA practices
-
     - title: CompTIA Network+
       description: TCP/IP, DNS, routing, switching, and network troubleshooting
          # quote: >
          #  Short institution or course description (optional)
          # description: | # this will include new lines to allow paragraphs
           # Description of qualification
-
 
   - title: Technical Skills
     layout: list
