@@ -53,15 +53,10 @@ about_content: |
   Cloud Infrastructure Engineer with 4+ years of experience designing, implementing, and supporting cloud infrastructure in AWS environments. Experienced in Infrastructure as Code using Terraform and CloudFormation, container platforms including Kubernetes (EKS) and Docker, CI/CD automation, Linux administration, and cloud networking. Proven ability to build scalable, secure, and highly available infrastructure while improving operational efficiency through automation, monitoring, and performance optimization.
 
 
-
-
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - # layout: top-middle
-        # border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
       - title: Production Monitoring & Alert Optimization
         layout: top-middle
         quote: >
@@ -92,14 +87,14 @@ content:
         caption: May 2026 - Present
         #link: Link to company (optional)
         quote: >
-          Secure AWS File Server Migration & Cloud Infrastructure Deployment.
+          AWS Cloud Migration & Infrastucture Project.
         description: | # this will include new lines to allow paragraphs   
-          •	Designed and deployed AWS infrastructure solutions using EC2, VPC, S3, EBS, IAM, and CloudWatch to support business applications and data management requirements.
-          •	Migrated client files and documents from traditional file storage environments to Amazon S3, implementing secure access controls, IAM permissions, and backup configurations.
-          •	Built AWS EC2 Windows Server environments and configured storage, security groups, and IAM roles following cloud security best practices.
-          •	Implemented backup and disaster recovery solutions using Amazon S3, lifecycle policies, and recovery testing procedures to improve data protection and availability.
-          •	Configured AWS monitoring using CloudWatch to track system health, resource utilization, and operational issues. 
-          •	Created AWS VPC networking environments with public/private subnets, security groups, and EBS volumes to support secure cloud deployments.
+          - Designed and deployed AWS infrastructure solutions using EC2, VPC, S3, EBS, IAM, and CloudWatch to support business applications and data management requirements.
+          - Migrated client files and documents from traditional file storage environments to Amazon S3, implementing secure access controls, IAM permissions, and backup configurations.
+          - Built AWS EC2 Windows Server environments and configured storage, security groups, and IAM roles following cloud security best practices.
+          - Implemented backup and disaster recovery solutions using Amazon S3, lifecycle policies, and recovery testing procedures to improve data protection and availability.
+          - Configured AWS monitoring using CloudWatch to track system health, resource utilization, and operational issues. 
+          - Created AWS VPC networking environments with public/private subnets, security groups, and EBS volumes to support secure cloud deployments.
       - layout: right
         title: IT BY Design
         border: weak  # Value of `weak` will display a weak border below this item. # Any              # other value (or no value) means no border will be displayed
@@ -109,13 +104,13 @@ content:
         quote: >
           Cloud services and infrastructure solutions provider.
         description: | # this will include new lines to allow paragraphs
-          •	Designed, implemented, and maintained AWS infrastructure supporting production and non-production environments.
-          •	Designed scalable and secure AWS architectures utilizing VPC, IAM, load balancing, and monitoring best practices.
-          •	Developed Infrastructure as Code solutions using Terraform and CloudFormation to standardize cloud provisioning and configuration management.
-          •	Managed and maintained Kubernetes (EKS) clusters, ensuring application availability, scaling and performance optimization.
-          •	Troubleshot and optimized CI/CD pipelines improving deployment stability.
-          •	Implemented infrastructure automation using Python and Bash, reducing manual operational effort and improving deployment consistency.
-          •	Supported cloud networking components including VPCs, subnets, route tables, security groups, and load balancers.
+          - Designed, implemented, and maintained AWS infrastructure supporting production and non-production environments.
+          - Designed scalable and secure AWS architectures utilizing VPC, IAM, load balancing, and monitoring best practices.
+          - Developed Infrastructure as Code solutions using Terraform and CloudFormation to standardize cloud provisioning and configuration management.
+          - Managed and maintained Kubernetes (EKS) clusters, ensuring application availability, scaling and performance optimization.
+          - Troubleshot and optimized CI/CD pipelines improving deployment stability.
+          - Implemented infrastructure automation using Python and Bash, reducing manual operational effort and improving deployment consistency.
+          - Supported cloud networking components including VPCs, subnets, route tables, security groups, and load balancers.
       - layout: right
         title: Ernst & Young
         border: weak  # Value of `weak` will display a weak border below this item. # Any              # other value (or no value) means no border will be displayed
@@ -125,40 +120,66 @@ content:
         quote: >
           Supported enterprise cloud infrastructure operations, automation, and deployment workflows.
         description: | # this will include new lines to allow paragraphs
-          •	Managed AWS infrastructure components (EC2, S3, IAM, VPC) ensuring stability and availability for enterprise systems.
-          •	Managed Linux and Windows servers in AWS-based environments ensuring performance, availability, and system reliability.
-          •	Configured networking components (subnets, routing, security groups, load balancers).
-          •	Automated patching and maintenance using Bash and Python.
-          •	Managed Docker-based container deployments in enterprise environments.
-          •	Supported and optimized CI/CD pipelines using Jenkins and GitLab for application deployments. 
-          •	Implemented infrastructure automation and deployment workflows using Terraform, Jenkins, and Git-based version control.
+          - Managed AWS infrastructure components (EC2, S3, IAM, VPC) ensuring stability and availability for enterprise systems.
+          - Managed Linux and Windows servers in AWS-based environments ensuring performance, availability, and system reliability.
+          - Configured networking components (subnets, routing, security groups, load balancers).
+          - Automated patching and maintenance using Bash and Python.
+          - Managed Docker-based container deployments in enterprise environments.
+          - Supported and optimized CI/CD pipelines using Jenkins and GitLab for application deployments. 
+          - Implemented infrastructure automation and deployment workflows using Terraform, Jenkins, and Git-based version control.
+
 
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: left
         title: Swinburne University of Technology
         sub_title: Bachelor of Commerce
         caption: 2009 - 2012
+
+
+  - title: Certifications | Professional Development
+    layout: list
+    content:
+      - layout: left
+        title: AWS Certified SysOps Administrator – Associate
+      - layout: left
+        title: CompTIA Security+ 
+      - layout: left
+        title: ITIL Foundation 
          # quote: >
          #  Short institution or course description (optional)
          # description: | # this will include new lines to allow paragraphs
           # Description of qualification
+
+
   - title: Technical Skills
-    layout: text
+    layout: list
     content: | # this will include new lines to allow paragraphs
       Cloud Platforms: AWS (EC2, VPC, S3, IAM, RDS, EBS, ELB, Lambda, CloudWatch)
+
       Operating Systems: Linux (RHEL, Ubuntu), Windows Server
+
       Containers & Orchestration: Docker, Kubernetes (EKS), Amazon ECS
+
       Infrastructure as Code: Terraform, CloudFormation, Ansible
+
       Databases: SQL, MySQL, PostgreSQL, Amazon RDS
+
       CI/CD Tools: Jenkins, GitHub Actions, GitLab CI
+
       Scripting: Python, Bash
+
       Monitoring & Logging: CloudWatch, Prometheus, Grafana, ELK Stack
+
       Security: IAM, KMS, Secrets Manager, TLS/SSL
+
       ITSM Tools: ServiceNow, Jira Service Management
+
       Version Control: Git, GitHub, GitLab, Bitbucket
+
       Virtualization: VMware
+      
       Networking: TCP/IP, DNS, Routing, Load Balancing, Security Groups, Network Troubleshooting
 # Footer
 footer_show_references: false # Show references section (true/false)
