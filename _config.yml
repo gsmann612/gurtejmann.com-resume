@@ -127,22 +127,22 @@ content:
           - Implemented infrastructure automation and deployment workflows using Terraform, Jenkins, and Git-based version control.
 
   - title: Education
-    layout: list
-    content:
-    - title: Swinburne University of Technology
-      layout: top-middle
-      sub_title: Bachelor of Commerce
-      caption: 2009 - 2012
+    layout: text
+    content: |
+     - title: Swinburne University of Technology
+       layout: top-middle
+       sub_title: Bachelor of Commerce
+       caption: 2009 - 2012
 
   - title: Certifications | Professional Development
     layout: list
-    content:
-    - title: AWS Certified SysOps Administrator – Associate
-      layout: top-middle
-    - title: ITIL Foundation – IT Service Management
-      layout: top-middle
-    - title: CompTIA Network+
-      layout: top-middle
+    content: |
+     - title: AWS Certified SysOps Administrator – Associate
+       layout: top-middle
+     - title: ITIL Foundation – IT Service Management
+       layout: top-middle
+     - title: CompTIA Network+
+       layout: top-middle
 
   - title: Technical Skills
     layout: list
