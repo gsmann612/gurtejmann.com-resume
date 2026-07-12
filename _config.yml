@@ -137,12 +137,12 @@ content:
   - title: Certifications | Professional Development
     layout: text
     content:
-    - title: AWS Certified SysOps Administrator – Associate
-      layout: top-middle
-    - title: ITIL Foundation – IT Service Management
-      layout: top-middle
-    - title: CompTIA Network+
-      layout: top-middle
+      - title: AWS Certified SysOps Administrator – Associate
+        layout: top-middle
+      - title: ITIL Foundation – IT Service Management
+        layout: top-middle
+      - title: CompTIA Network+
+        layout: top-middle
 
   - title: Technical Skills
     layout: list
