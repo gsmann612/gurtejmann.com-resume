@@ -127,12 +127,8 @@ content:
           - Implemented infrastructure automation and deployment workflows using Terraform, Jenkins, and Git-based version control.
 
   - title: Education
-    layout: list
-    content: 
-      - title: Swinburne University of Technology
-        layout: top-middle
-        sub_title: Bachelor of Commerce
-        caption: 2009 - 2012
+    layout: text
+    content: Bachelor of Commerce, Swinburne University of Technology, Melbourne, Australia, (2009-2012)
 
   - title: Certifications | Professional Development
     layout: text
