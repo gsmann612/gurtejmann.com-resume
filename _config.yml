@@ -128,24 +128,18 @@ content:
 
   - title: Education
     layout: list
-    content: |
+    content: 
       - title: Swinburne University of Technology
         layout: top-middle
         sub_title: Bachelor of Commerce
         caption: 2009 - 2012
 
   - title: Certifications | Professional Development
-    layout: list
-    content: |
-      - title: AWS Certified SysOps Administrator – Associate
-        layout: top-middle
-      - title: ITIL Foundation – IT Service Management
-        layout: top-middle
-      - title: CompTIA Network+
-        layout: top-middle
-
+    layout: text
+    content: AWS Certified SysOps Administrator – Associate | ITIL Foundation – IT Service Management | CompTIA Network+
+  
   - title: Technical Skills
-    layout: list
+    layout: text
     content: | # this will include new lines to allow paragraphs
       Cloud Platforms: AWS (EC2, VPC, S3, IAM, RDS, EBS, ELB, Lambda, CloudWatch)
 
