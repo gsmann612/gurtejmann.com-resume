@@ -79,7 +79,7 @@ content:
     layout: list
     content:
       - layout: right
-        title: Apurva Raval CPA LLC
+        title: Independent Consultant
         border: weak  # Value of `weak` will display a weak border below this item. # Any              # other value (or no value) means no border will be displayed
         sub_title: Cloud Engineer
         caption: May 2026 - Present
