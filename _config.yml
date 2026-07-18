@@ -50,7 +50,7 @@ linkedin_username: gurtej-mann-devops
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg # Path to your profile image (eg. images/profile.jpg)
 about_content: |
-  Cloud Infrastructure Engineer with 4+ years of experience designing, implementing, and supporting cloud infrastructure in AWS environments. Experienced in Infrastructure as Code using Terraform and CloudFormation, container platforms including Kubernetes (EKS) and Docker, CI/CD automation, Linux administration, and cloud networking. Proven ability to build scalable, secure, and highly available infrastructure while improving operational efficiency through automation, monitoring, and performance optimization.
+  Cloud Engineer with 4+ years of experience designing, implementing, and supporting cloud infrastructure in AWS environments. Experienced in Infrastructure as Code using Terraform and CloudFormation, container platforms including Kubernetes (EKS) and Docker, CI/CD automation, Linux administration, and cloud networking. Proven ability to build scalable, secure, and highly available infrastructure while improving operational efficiency through automation, monitoring, and performance optimization.
 
 content:
   - title: Projects # Title for the section
@@ -79,9 +79,9 @@ content:
     layout: list
     content:
       - layout: right
-        title: Independent Consultant
+        title: JHM Cloud Solutions LLC
         border: weak  # Value of `weak` will display a weak border below this item. # Any              # other value (or no value) means no border will be displayed
-        sub_title: Cloud Engineer
+        sub_title: DevOps Consultant
         caption: May 2026 - Present
         #link: Link to company (optional)
         quote: >
