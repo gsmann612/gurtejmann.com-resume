@@ -137,31 +137,31 @@ content:
   - title: Technical Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Cloud Platforms: AWS (EC2, VPC, S3, IAM, RDS, EBS, ELB, Lambda, CloudWatch)
+      Cloud Platforms: Experienced with AWS cloud services including EC2, VPC, S3, IAM, RDS, EBS, Elastic Load Balancing (ELB), Lambda, and CloudWatch for designing, deploying, and supporting scalable cloud infrastructure.
 
-      Operating Systems: Linux (RHEL, Ubuntu), Windows Server
+      Operating Systems: Skilled in Linux administration (RHEL, Ubuntu) and Windows Server environments, including system configuration, troubleshooting, patching, and operational support.
 
-      Containers & Orchestration: Docker, Kubernetes (EKS), Amazon ECS
+      Containers & Orchestration: Hands-on experience with Docker and Kubernetes (EKS), including containerized application deployments, cluster management, scaling, and troubleshooting. Familiar with Amazon ECS for container workloads.
 
-      Infrastructure as Code: Terraform, CloudFormation, Ansible
+      Infrastructure as Code: Experienced in Infrastructure as Code (IaC) using Terraform, CloudFormation, and Ansible to automate cloud provisioning, configuration management, and infrastructure deployments.
 
-      Databases: SQL, MySQL, PostgreSQL, Amazon RDS
+      Databases: Working knowledge of SQL databases including MySQL, PostgreSQL, and Amazon RDS, supporting database configuration, connectivity, and cloud-based application environments.
 
-      CI/CD Tools: Jenkins, GitHub Actions, GitLab CI
+      CI/CD Tools: Experience supporting CI/CD pipelines using Jenkins, GitHub Actions, and GitLab CI to automate application builds, testing, and deployment workflows.
 
-      Scripting: Python, Bash
+      Scripting & Automation: Skilled in Python and Bash scripting for automation, system administration, operational tasks, and improving infrastructure efficiency.
 
-      Monitoring & Logging: CloudWatch, Prometheus, Grafana, ELK Stack
+      Monitoring & Logging: Experienced with CloudWatch, Prometheus, Grafana, and ELK Stack for infrastructure monitoring, log analysis, alerting, and production troubleshooting.
 
-      Security: IAM, KMS, Secrets Manager, TLS/SSL
+      Cloud Security: Knowledge of AWS security practices including IAM, KMS, Secrets Manager, TLS/SSL, access control, and secure cloud infrastructure configuration.
 
-      ITSM Tools: ServiceNow, Jira Service Management
+      IT Service Management: Experienced with ServiceNow and Jira Service Management for incident management, change management, service requests, and IT operations support.
 
-      Version Control: Git, GitHub, GitLab, Bitbucket
+      Version Control: Proficient with Git-based version control systems including GitHub, GitLab, and Bitbucket for source code management and collaboration.
 
-      Virtualization: VMware
+      Virtualization: Familiar with VMware virtualization technologies and virtual infrastructure administration.
       
-      Networking: TCP/IP, DNS, Routing, Load Balancing, Security Groups, Network Troubleshooting
+      Networking: Strong understanding of TCP/IP, DNS, routing, load balancing, security groups, subnets, and network troubleshooting in enterprise and cloud environments.
 # Footer
 footer_show_references: false # Show references section (true/false)
  # references_title: References on request (Override references text)
