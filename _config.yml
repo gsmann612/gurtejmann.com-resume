@@ -88,12 +88,9 @@ content:
         quote: >
           AWS Cloud Migration & Infrastucture Project.
         description: | # this will include new lines to allow paragraphs   
-          - Designed and deployed AWS infrastructure solutions using EC2, VPC, S3, EBS, IAM, and CloudWatch to support business applications and data management requirements.
-          - Migrated client files and documents from traditional file storage environments to Amazon S3, implementing secure access controls, IAM permissions, and backup configurations.
-          - Built AWS EC2 Windows Server environments and configured storage, security groups, and IAM roles following cloud security best practices.
-          - Implemented backup and disaster recovery solutions using Amazon S3, lifecycle policies, and recovery testing procedures to improve data protection and availability.
-          - Configured AWS monitoring using CloudWatch to track system health, resource utilization, and operational issues. 
-          - Created AWS VPC networking environments with public/private subnets, security groups, and EBS volumes to support secure cloud deployments.
+          - Designed and deployed AWS infrastructure solutions using EC2, VPC, S3, EBS, IAM, and CloudWatch for business applicatons, enabling secure and scalable operations.
+          - Migrated client data from on-premises storage to AWS S3 with IAM access controls and backup policies, improving data security and availability.
+          - Built adn configured Windows server instances on EC2, including storage, networking, and security settings, ensuring reliable applicatioin hosting.
       - layout: right
         title: IT BY Design
         border: weak  # Value of `weak` will display a weak border below this item. # Any              # other value (or no value) means no border will be displayed
@@ -103,13 +100,11 @@ content:
         quote: >
           Cloud services and infrastructure solutions provider.
         description: | # this will include new lines to allow paragraphs
-          - Designed, implemented, and maintained AWS infrastructure supporting production and non-production environments.
-          - Designed scalable and secure AWS architectures utilizing VPC, IAM, load balancing, and monitoring best practices.
-          - Developed Infrastructure as Code solutions using Terraform and CloudFormation to standardize cloud provisioning and configuration management.
-          - Managed and maintained Kubernetes (EKS) clusters, ensuring application availability, scaling and performance optimization.
-          - Troubleshot and optimized CI/CD pipelines improving deployment stability.
-          - Implemented infrastructure automation using Python and Bash, reducing manual operational effort and improving deployment consistency.
-          - Supported cloud networking components including VPCs, subnets, route tables, security groups, and load balancers.
+          - Designed, implemented, and maintained AWS infrastructure supporting production and non-production environments, achieving 99.9% infrastructure availability.
+          - Designed scalable and secure AWS architectures utilizing VPC, IAM, load balancing, and monitoring best practices, strengthening security and supportiing business growth.
+          - Developed infrastructure as code solutions using Terraform and CloudFormation, reducing infrastructure provisioning time by 60% and ensuring consistent deployments.
+          - Managed and maintained Kubernetes (EKS) clusters, ensuring application availability, scaling and optimal performance for production workloads.
+          - Automated infrastructure operations using Python and Bash while troubleshooting and optimizing CI/CD pipelines to improve deployment reliability.
       - layout: right
         title: Ernst & Young
         border: weak  # Value of `weak` will display a weak border below this item. # Any              # other value (or no value) means no border will be displayed
@@ -122,10 +117,9 @@ content:
           - Managed AWS infrastructure components (EC2, S3, IAM, VPC) ensuring stability and availability for enterprise systems.
           - Managed Linux and Windows servers in AWS-based environments ensuring performance, availability, and system reliability.
           - Configured networking components (subnets, routing, security groups, load balancers).
-          - Automated patching and maintenance using Bash and Python.
-          - Managed Docker-based container deployments in enterprise environments.
-          - Supported and optimized CI/CD pipelines using Jenkins and GitLab for application deployments. 
-          - Implemented infrastructure automation and deployment workflows using Terraform, Jenkins, and Git-based version control.
+          - Automated patching and maintenance using Bash and Python, reducing manual administrative effort by 60%.
+          - Supported and optimized CI/CD pipelines using Jenkins and GitLab, reducing deployment time by 40% and improving release efficiency.
+          - Implemented infrastructure automation and deployment workflows using Terraform, Jenkins, and Git-based version control, reducing provisioning time and ensuring consistency.
 
   - title: Education
     layout: text
