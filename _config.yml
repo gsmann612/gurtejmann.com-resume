@@ -126,7 +126,7 @@ content:
     content: Bachelor of Commerce, Swinburne University of Technology, Melbourne, Australia, (2009-2012)
 
   - title: Certifications | Professional Development
-    layout: text
+    layout: certifications
     content: AWS Certified SysOps Administrator – Associate | ITIL Foundation – IT Service Management | CompTIA Network+
   
   - title: Technical Skills
